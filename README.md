@@ -10,6 +10,8 @@ Heya! I'm Sudipta Shaw, a student of SRMIST Chennai, India.Always keen to learn 
 <div align="center">
   <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
   <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
+  <img src="https://img.shields.io/badge/-NODE.JS-68a063?style=for-the-badge&logo=node.js&logoColor=68a063&labelColor=282828">
+  <img src="https://img.shields.io/badge/-EXPRESS-8f0ff?style=for-the-badge&logo=express&logoColor=8f0ff&labelColor=282828">
   <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
 </div>
 </p>
@@ -42,3 +44,5 @@ if __name__ == '__main__':
     <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
   </a>
 </div
+-->
+
